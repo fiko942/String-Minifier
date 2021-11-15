@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\bin\Debug\String Minifier.exe
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\bin\Debug\String Minifier.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\obj\x86\Debug\String_Minifier.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\obj\x86\Debug\String_Minifier.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\obj\x86\Debug\String Minifier.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\obj\x86\Debug\String Minifier.exe
+c:\users\administrator\documents\visual studio 2010\Projects\String Minifier\String Minifier\obj\x86\Debug\String Minifier.pdb
